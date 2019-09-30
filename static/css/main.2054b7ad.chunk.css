@@ -1,2 +1,2 @@
 .comment-list{display:flex;flex-flow:row wrap;justify-content:space-around;padding:20px 0 0}.comment-list .comment-list__item{margin-bottom:20px;background:#5f9ea0}html{background:#ffebcd}.post-list{display:grid;grid-template-columns:1fr 1fr;grid-gap:20px;padding:0}li.post-list__item.ui.card{width:100%}li.post-list__item.ui.card>.card-item{height:200px;max-height:200px}.content .meta.meta__email,.content .meta.meta__name{text-align:left}.post-list__item .content .meta.meta__address{display:grid;grid-template-columns:130px 130px;grid-gap:20px;gap:20px}.content .meta.meta__address p{text-align:left}.App,.main{text-align:center}
-/*# sourceMappingURL=main.bfbd1e88.chunk.css.map */
+/*# sourceMappingURL=main.2054b7ad.chunk.css.map */
